@@ -34,4 +34,4 @@ database level as follows:
 I run a the stored procedure on the price_usd column which contains lots of outliers with huge amount:
 Here a sample of offer_id / price_usd returned by the stored procedure
 
-Please have a look of a sample of outliers (returned by the sp) in the outliers.txt file.
+Please have a look of a sample of outliers (returned by the sp) in the Outliers_Sample.txt file.
